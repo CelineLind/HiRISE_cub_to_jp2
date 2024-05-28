@@ -23,7 +23,7 @@ The process of converting these .IMG files into JPEG2000s (aka, mimicking the pr
 
 Congrats, you now repeated the process of turning the EDR products into JPEG2000 images.  
 https://hiproc.readthedocs.io will be your best friend for any additional troubleshooting.  
-Or, see the hirise_to_jp2_draft.py file where I attempted to do part 1 and part 2 in one fail, but couldn't get it to work, so split it into two files instead. 
+Or, see the hirise_to_jp2_draft.py file where I attempted to do part 1 and part 2 in one file, but couldn't get it to work, so split it into two files instead. 
 
 ## What  
 .IMG EDR files from HiRISE into a single, combined JPEG2000 image.
